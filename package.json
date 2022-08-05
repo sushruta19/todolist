@@ -1,0 +1,25 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "An app to maintain a list of tasks you need to complete or things that you want to do",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushruta19/todolist.git"
+  },
+  "author": "Soubhik Sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushruta19/todolist/issues"
+  },
+  "homepage": "https://github.com/sushruta19/todolist#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "request": "^2.88.2"
+  }
+}
